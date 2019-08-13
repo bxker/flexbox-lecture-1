@@ -14,6 +14,8 @@ display:
 block
 inline - hard to move
 inline - basically inline but can change the width and height of element 
-grid
-flex - or flexbox - alot of presets built in to space elements
+grid - 
+flex - or flexbox - alot of presets built in to space elements https://flexboxfroggy.com
+
+
 
